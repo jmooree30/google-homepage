@@ -1,8 +1,11 @@
+<<<<<<< HEAD
 
 input[type=submit] {
     border: none;
 }
 
+=======
+>>>>>>> a3dada14c83412d6fa988fe19efb19041e2483c6
 .options ul{
   text-align: right;
   list-style-type: none;
@@ -53,6 +56,7 @@ input[type='text'] {
 }
 
 .buttons li{
+<<<<<<< HEAD
   background-color: #f2f2f2;
   padding: 5px;
   display: inline-block;
@@ -70,13 +74,28 @@ input:focus {
   position: fixed;
   bottom: 0px;
   width:99%;
+=======
+  padding: 5px;
+  display: inline-block;
+}
+
+.footer {
+   position:fixed;
+   bottom:0px;
+>>>>>>> a3dada14c83412d6fa988fe19efb19041e2483c6
 }
 
 .footer li{
   display:inline;
+<<<<<<< HEAD
   text-decoration: none;
   font-family: arial,sans-serif;
   font-size: small;
   
 }
 
+=======
+}
+
+
+>>>>>>> a3dada14c83412d6fa988fe19efb19041e2483c6
