@@ -1,3 +1,8 @@
+
+input[type=submit] {
+    border: none;
+}
+
 .options ul{
   text-align: right;
   list-style-type: none;
@@ -48,19 +53,30 @@ input[type='text'] {
 }
 
 .buttons li{
+  background-color: #f2f2f2;
   padding: 5px;
   display: inline-block;
+  border:none;
 }
 
-.footer ul{
-  right: 0;
-  bottom: 0;
-  left: 0;
-  padding: 1rem;
+
+input:focus {
+  outline-style: none;
+}
+
+
+.footer {
+  background: #f2f2f2;
+  position: fixed;
+  bottom: 0px;
+  width:99%;
 }
 
 .footer li{
   display:inline;
+  text-decoration: none;
+  font-family: arial,sans-serif;
+  font-size: small;
+  
 }
-
 
