@@ -7,5 +7,3 @@ If you're interested in doing this yourself check this out...
 
 From The Odin Project's [curriculum](http://www.theodinproject.com/web-development-101/html-css)
 
-#update
-Leaving project as is and considering it finished. Would like to use someday as a reminder of where I started.
